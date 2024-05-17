@@ -17,3 +17,20 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+- [X] list syntax
+- [ ] test2
+- [ ] test3
+
+1. test1
+2. test2
+
+- test1
+  - test2
+- test3
+
+col1 | col2
+-|-
+1 | 2
+
+_italic_ test **done.**
